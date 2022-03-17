@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StreetGUY32
-- 👀 I’m interested in python programming and web programming
+- 👀 I’m interested in python programming and web development
 - 🌱 I’m currently a backend intern.
 
 <!---
