@@ -1,14 +1,15 @@
 Hi 👋 My name is Muhammad Asjad Raja
 ====================================
 
-Web Developer
--------------
+Web Developer | Mobile Developer
+--------------------------------
 
-I've been learning to code for almost a year now, after testing some programming languages, I started with HTML, CSS, JAVASCRIPT, PHP(Laravel), PYTHON. I found passion in web development..
+I've been learning to code for almost two and half year now, after testing some programming languages, I started with HTML, CSS, JAVASCRIPT, PHP(Laravel), PYTHON. I've also worked on Flutter and React-Native.
+I found passion in coding, I'm eager to learn new skills.
 
 *   🌍  I'm based in Islamabad, Pakistan
 *   ✉️  You can contact me at [asjadraja32@gmail.com](mailto:asjadraja32@gmail.com)
-*   🧠  I'm learning React JS, LARAVEL
+*   🧠  I'm learning React JS, LARAVEL, React-Native
 *   🤝  I'm open to collaborating on backend and frontend development
 *   ⚡  I really like to play video games.
 
@@ -23,6 +24,15 @@ I've been learning to code for almost a year now, after testing some programming
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+  
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" width="36" height="36" alt="React Native" />
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    </a
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  
                     </p>
                     
 ### Socials
