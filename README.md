@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Asjad Raja
 Web Developer | Mobile Developer
 --------------------------------
 
-I've been learning to code for almost two and half year now, after testing some programming languages, I started with HTML, CSS, JAVASCRIPT, PHP(Laravel), PYTHON. I've also worked on Flutter and React-Native.
+I've been learning to code for almost 3 years now, after testing some programming languages, I started with HTML, CSS, JAVASCRIPT, PHP(Laravel), PYTHON. I've also worked on Flutter and React-Native.
 I found passion in coding, I'm eager to learn new skills.
 
 *   🌍  I'm based in Islamabad, Pakistan
@@ -12,6 +12,7 @@ I found passion in coding, I'm eager to learn new skills.
 *   🧠  I'm learning React JS, LARAVEL, React-Native
 *   🤝  I'm open to collaborating on backend and frontend development
 *   ⚡  I really like to play video games.
+*   💻  Currently I'm working on React Native(Mobile), NextJS(WEB) and node.js on the backend
 
 ### Skills
 <p align="left">
