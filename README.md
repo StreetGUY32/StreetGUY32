@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Asjad Raja
 Web Developer | Mobile Developer (Full-Stack Dev)
 --------------------------------
 
-It's been 4 years since I have started coding. I started as Front-end dev on simple HTML CSS, moved to backend with PHP in laravel, 
+Since 2019 I have started coding. I started as Front-end dev on simple HTML CSS, moved to backend with PHP in laravel, 
 then learned JavaScript and it open a lot of doors for opportunities it enabled me to work on WEB, MOBILE and on Backend too,
 stack included REACT JS, NEXT JS, REACT NATIVE and NODE JS.
 
